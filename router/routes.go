@@ -2,7 +2,7 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/raderleao/goppotunities.git/handler"
+	"github.com/raderleao/gopportunities/handler"
 )
 
 func InitializeRoutes(router *gin.Engine) {
